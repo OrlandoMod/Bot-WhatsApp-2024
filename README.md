@@ -8,15 +8,15 @@ I hope it's useful for you and help give this script a star. Thank you.
 Continued progress on creating button and message list features!
 
 # <===== CREDITS =====>
-Author: @berkahesport.id
+Author: 𝙊𝙧𝙡𝙖𝙣𝙙𝙤 𝙊𝙛𝙛𝙞𝙘𝙞𝙖𝙡
 
-Github: @berkahesport
+Github: @OrlandoMOD
 
-Contact me: https://wa.me/62895375950107
+Contact me: https://wa.me/6283106346274
 
-Group WA: https://tinyurl.com/berkahesport
+Group WA: https://t.me/orlando_officiall
 
-Youtube: https://tinyurl.com/berkahesportid
+Instagram: https://Instagram.com/@d_orlando1
 
 Do not delete the source code.
 Thanks you...
